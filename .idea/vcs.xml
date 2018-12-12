@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BBox-Label-Tool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/darkflow" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/xfz/BBox-Label-Tool" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/xfz/darkflow" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/xfzb/BBox-Label-Tool" vcs="Git" />

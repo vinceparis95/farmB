@@ -2,9 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13ad4861-bc86-4a6a-b0ce-fa74524c5013" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/xfzb/BBox-Label-Tool/AnnotationsXML/001/test3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xfzb/BBox-Label-Tool/AnnotationsXML/001/test3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xfzb/BBox-Label-Tool/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfzb/BBox-Label-Tool/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xfzb/BBox-Label-Tool/xml_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfzb/BBox-Label-Tool/xml_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBox-Label-Tool/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BBox-Label-Tool/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBox-Label-Tool/xml_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/BBox-Label-Tool/xml_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/.idea/xfz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy 99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/100pics/image0.jpg__preview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/BBox-Label-Tool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/darkflow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfzb/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,29 +124,85 @@
     <session id="-1350275124">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="cfg" value="1" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Ini" value="1" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cfg" value="3" />
+          <entry key="py" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ini" value="3" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BBox-Label-Tool/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BBox-Label-Tool/xml_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/darkflow/cfg/yolo-new.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="236" column="10" selection-start-line="236" selection-start-column="10" selection-end-line="236" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/darkflow" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BBox-Label-Tool/main.py" />
+        <option value="$PROJECT_DIR$/BBox-Label-Tool/xml_util.py" />
+        <option value="$PROJECT_DIR$/darkflow/cfg/yolo-new.cfg" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="261" />
@@ -62,13 +226,28 @@
             <path>
               <item name="farmB" type="b2602c69:ProjectViewProjectNode" />
               <item name="farmB" type="462c0819:PsiDirectoryNode" />
-              <item name="xfzb" type="462c0819:PsiDirectoryNode" />
+              <item name="BBox-Label-Tool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="farmB" type="b2602c69:ProjectViewProjectNode" />
               <item name="farmB" type="462c0819:PsiDirectoryNode" />
-              <item name="xfzb" type="462c0819:PsiDirectoryNode" />
+              <item name="BBox-Label-Tool" type="462c0819:PsiDirectoryNode" />
+              <item name="Labels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="farmB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="farmB" type="462c0819:PsiDirectoryNode" />
               <item name="darkflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="farmB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="farmB" type="462c0819:PsiDirectoryNode" />
+              <item name="darkflow" type="462c0819:PsiDirectoryNode" />
+              <item name="cfg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="farmB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -131,10 +310,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xfz/BBox-Label-Tool/main.py">
+    <entry file="file://$PROJECT_DIR$/xfz/BBox-Label-Tool/main.py" />
+    <entry file="file://$PROJECT_DIR$/BBox-Label-Tool/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BBox-Label-Tool/xml_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/darkflow/cfg/yolo-new.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="236" column="10" selection-start-line="236" selection-start-column="10" selection-end-line="236" selection-end-column="10" />
         </state>
       </provider>
     </entry>
